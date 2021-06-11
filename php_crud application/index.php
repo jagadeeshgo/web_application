@@ -24,7 +24,7 @@
 <br><br>
 <div class="container">
   <h2>Home</h2>
-  <p>Consider this as a home page<p><br>
+  <p>Consider this as a home page</p><br>
   <a href="logout.php" class="btn btn-primary">log out</a>
 
 </body>
